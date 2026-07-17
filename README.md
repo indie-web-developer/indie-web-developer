@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning ASP.NET core
 <!--
 **indie-web-developer/indie-web-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
